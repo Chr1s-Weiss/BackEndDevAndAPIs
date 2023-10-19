@@ -1,0 +1,3 @@
+[submodule "boilerplate-mongomongoose"]
+	path = boilerplate-mongomongoose
+	url = https://github.com/Chr1s-Weiss/boilerplate-mongomongoose.git
